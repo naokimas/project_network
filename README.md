@@ -1,10 +1,10 @@
 # project_network
-Project activity network data used in Ellinas and Masuda (2018).
+Project activity network data.
 Please cite the following paper when you use the data.
 
 Christos Ellinas and Naoki Masuda.
-TITLE NOT FIXED.
-arXiv:181x.xxxxx (2018).
+Modelling project failure and its mitigation in a time-stamped network of interrelated tasks.
+arXiv:1810.07561 (2018).
 
 The data set includes the temporal and structural properties of the activity network and comprises the following two files.
 
