@@ -2,9 +2,11 @@
 Project activity network data.
 Please cite the following paper when you use the data.
 
-Christos Ellinas and Naoki Masuda.
-Modelling project failure and its mitigation in a time-stamped network of interrelated tasks.
-arXiv:1810.07561 (2018).
+[Christos Ellinas, Christos Nicolaides, Naoki Masuda.  
+Mitigation strategies against cascading failures within a project activity network.  
+Journal of Computational Social Science, 5, 383-400 (2022)](https://doi.org/10.1007/s42001-021-00123-x)
+
+This paper is open access.
 
 The data set includes the temporal and structural properties of the activity network and comprises the following two files.
 
